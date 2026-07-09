@@ -44,7 +44,7 @@
 ## Representation of Algorithm
 - Representation of an algorithm is the method of presenting the step-by-step procedure for solving a problem in a clear, logical, and easy-to-understand form so that it can be implemented correctly.
 
-![Shapes or Symbols to draw flow chart](figs/fig_4.1.webp)
+![Shapes or Symbols to draw flow chart](/figs/fig_4.1.webp)
 
 <br><br>
 
@@ -74,7 +74,7 @@ flowchart TD
 
 ### Example 2 : Draw a flowchart to solve the problem of a non-functioning light blub
 
-![flowchart for checking non-functioning bulb](figs/fig_4.2.webp)
+![flowchart for checking non-functioning bulb](/figs/fig_4.2.webp)
 
 <br><hr><br><br>
 
@@ -105,13 +105,13 @@ flowchart TD
 
 ### Example 3 : Write an Algorithm to display the sum of two numbers entered by user, using both pseudocode and flowchart.
 
-![pseudocode and flowchart](figs/fig_4.3.webp)
+![pseudocode and flowchart](/figs/fig_4.3.webp)
 
 <br><br><br>
 
 ### Example 4 : Write an algorithm to calculate area and perimeter of a rectangle, using both pseudocode and flowchart .
 
-![calculate area](figs/fig_4.4.webp)
+![calculate area](/figs/fig_4.4.webp)
 
 <br><hr><br><br>
 
